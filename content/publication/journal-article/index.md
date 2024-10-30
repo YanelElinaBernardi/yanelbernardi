@@ -6,11 +6,11 @@ authors:
 author_notes:
 - Equal contribution
 - Equal contribution
-date: ""
+date: 2021-05-14T00:00:00Z
 doi: https://doi.org/10.1042/BCJ20210083
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-05-14T00:00:00Z"
+publishDate: 2021-05-14T00:00:00Z
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
