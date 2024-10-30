@@ -1,16 +1,16 @@
 ---
-title: "An example journal article"
+title: What we can learn from embryos to understand the mesenchymal-to-epithelial transition in tumor progression
 authors:
-- admin
-- Robert Ford
+- Yanel Bernardi 
+- Pablo Hernán Strobl-Mazzulla
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- Equal contribution
+- Equal contribution
+date: ""
+doi: https://doi.org/10.1042/BCJ20210083
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-05-14T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
