@@ -11,7 +11,7 @@ last_name: Bernardi
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🧬​🔬​​💻​🌿​🌎​🧉​
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: R&D specialist
+role: Biotechnologist | Bioinformatic | R&D specialist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -31,31 +31,32 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: bernardiyanel@gmail.com
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  - icon:
+    url: 
+  - icon: 
+    url: 
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/YanelElinaBernardi
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/yanelbernardi
+  - icon: 
+    url: 
+  - icon: 
+    url: 
 
 interests:
-  - Bioinformatics
-  - Molecular biology
-  - Drug discovery
+  - Disruptive innovation
+  - Artificial intelligence
+  - Bioinformatics solutions
+  - Sustainable future
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Degree in Biotechnology 
+    institution: Universidad Nacional del Litoral
+    date_start: 2012-03-01
+    date_end: 2019-03-01
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
